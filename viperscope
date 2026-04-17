@@ -1,5 +1,5 @@
 viperscope/
-├── viperscope_NASA.ipynb  
+├── viperscope.ipynb  
 ├── README.md            
 ├── requirements.txt        
 ├── .gitignore               
